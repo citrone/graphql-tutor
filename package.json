@@ -1,0 +1,19 @@
+{
+  "name": "apollo-tutor",
+  "version": "0.0.1",
+  "description": "Playground project to learn how to use apollo server and cllient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apollo",
+    "test"
+  ],
+  "author": "Gabriel Cirtea",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "graphql": "^14.0.2"
+  }
+}
